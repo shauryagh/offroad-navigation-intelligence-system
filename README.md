@@ -7,11 +7,7 @@ Built during a hackathon as part of **Team Null Vectors**, this project focuses 
 
 ## 🚀 Live Demo
 
-The working deployment is hosted on our teammate’s Hugging Face account as part of the hackathon setup:
-
-👉 https://huggingface.co/spaces/SAHIL-MISHRA/LINK  
-👉 https://huggingface.co/SAHIL-MISHRA/MODEL-LINK
-
+The working deployment is hosted on our teammate’s Hugging Face account as part of the hackathon setu
 This repository contains my portfolio version of the project, including documentation, presentation, and supporting files.
 
 ---
@@ -118,3 +114,4 @@ Deployment hosted on Hugging Face as part of the team’s collaborative setup.
 ## 📬 Contact
 
 If you'd like to discuss the project, collaboration ideas, or improvements, feel free to connect.
+
